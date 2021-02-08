@@ -1,12 +1,7 @@
 package com.qa.listener;
 /*
 @Author: sachin jagtap
-
-
 */
-
-
-
 
 import io.qameta.allure.Attachment;
 import org.openqa.selenium.OutputType;
